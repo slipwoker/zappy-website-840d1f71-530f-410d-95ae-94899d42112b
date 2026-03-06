@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הצטרפי לסדנת UGC לאמהות וליצרי תוכן וידאו למותגים בעזרת הסמארטפון בלבד. קבוצה אינטימית, ליווי אישי, ויציאה עם סרטון מוגמר. התחילי לעבוד מהבית היום!
+
+### אודות
+https://example.com/about
+גלי את הסיפור מאחורי הסדנה הייחודית ליצירת תוכן למותגים. למדי איך אמהות ממש כמוך הפכו ליוצרות תוכן מצליחות ללא ניסיון קודם, רק עם הסמארטפון והרצון להצליח.
+
+### תכנית לימודים
+https://example.com/curriculum
+תכנית הלימודים המלאה של סדנת UGC לאמהות: תיאוריה על תעשיית התוכן, צילום ועריכה בסמארטפון, ותרגול מעשי עד לסרטון מוגמר. מקסימום 10 משתתפות, אווירה תומכת ומעצימה.
+
+### צור קשר
+https://example.com/contact
+מוכנה להתחיל את המסע שלך ביצירת תוכן וידאו למותגים? צרי קשר עכשיו, שריני מקום בקבוצה האינטימית הבאה, וקבלי את כל הפרטים על הסדנה. מספר המקומות מוגבל!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
